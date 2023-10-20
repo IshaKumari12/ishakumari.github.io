@@ -1,6 +1,6 @@
 # ishakumari.github.io
 # 💫 About Me:
-👋 Hi, I’m Isha Kumari<br>👀 I’m interested in the field of Artificial Intelligence<br>🔭 I’m currently working on a few Web Development and Machine learning projects<br>👯 I’m looking forward to explore new Technologies<br>🌱
+👋 Hi, I’m Isha Kumari<br>👀 I’m interested in the field of Artificial Intelligence<br>🔭 I’m currently working on a few Web Development and Machine learning projects<br>👯 I’m looking forward to explore new Technologies<br>
 
 
 ## 🌐 Socials:
